@@ -1,6 +1,6 @@
 <?php
 
-namespace WHMCS\Module\Notification\SampleNotificationModule;
+namespace WHMCS\Module\Notification\WebHookNotificationModule;
 
 use WHMCS\Module\Notification\DescriptionTrait;
 use WHMCS\Module\Contracts\NotificationModuleInterface;
