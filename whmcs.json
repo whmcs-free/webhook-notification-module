@@ -1,7 +1,7 @@
 {
     "schema": "1.0",
     "type": "whmcs-notifications",
-    "name": "WebHook Notification Module",
+    "name": "WebHookNotificationModule",
     "license": "MIT",
     "category": "notifications",
     "description": {
